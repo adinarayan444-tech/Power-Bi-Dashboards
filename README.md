@@ -62,4 +62,24 @@ Power Pivot
 
 Pivot Tables
 
+**HR Analytics :**
+This HR Analytics Dashboard analyzes employee data to provide insights into workforce performance, attrition trends, and employee demographics. The dashboard helps HR teams monitor key metrics and make data-driven decisions to improve employee retention and productivity.
+
+Key Metrics:
+- Employee Attrition Rate
+- Department-wise Employee Distribution
+- Age Group Analysis
+- Job Role and Salary Insights
+- Employee Performance Trends
+
+Tools Used:
+- Microsoft Power BI Desktop
+- Power Query (Data Transformation)
+- Data Modeling
+- DAX Measures
+- Interactive Visualizations
+
+Purpose:
+The dashboard enables HR managers to identify attrition patterns, analyze workforce demographics, and support strategic HR decision-making using data insights.
+
 Interactive Charts & Slicers
